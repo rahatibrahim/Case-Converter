@@ -1,2 +1,11 @@
 # Project exclude paths
 /node_modules/
+Case Converter/*
+!Case Converter/task
+/.idea/
+/Topics/
+course-info.yaml
+course-remote-info.yaml
+package.json
+package-lock.json
+
