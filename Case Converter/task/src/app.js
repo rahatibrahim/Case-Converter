@@ -40,6 +40,7 @@ function download(filename, text) {
 
     document.body.removeChild(element);
 }
+
 document.getElementById("save-text-file").addEventListener("click", function() {
     let filename = "text.txt"
     download(filename, text.value);
