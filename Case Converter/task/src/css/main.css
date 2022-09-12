@@ -5,3 +5,13 @@ textarea{
 .text{
     text-align: center;
 }
+
+body {
+    max-width: max-content;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-family: Consolas, serif;
+}
